@@ -42,7 +42,7 @@ I want to focus on learning on how to make responsive websites
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - (https://error-at-night.github.io/Profile-card-solution-using-HTML-and-CSS/)
 - Frontend Mentor - (https://www.frontendmentor.io/profile/Error-at-night)
 - Twitter - (https://www.twitter.com/realogsucessful)
 
