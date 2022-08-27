@@ -13,9 +13,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
   - [Continued development](#continued-development)
 - [Author](#author)
 
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -34,13 +31,9 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Semantic HTML5 markup
 - CSS custom properties
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 I have learn how to implement the basic things i have learnt about HTML and CSS into practice, by building this profile card component challenge
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
@@ -52,6 +45,4 @@ I want to focus on learning on how to make responsive websites
 - Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - (https://www.frontendmentor.io/profile/Error-at-night)
 - Twitter - (https://www.twitter.com/realogsucessful)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
