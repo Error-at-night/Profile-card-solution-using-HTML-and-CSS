@@ -1,0 +1,109 @@
+body{
+    background-color: hsl(185, 75%, 39%);
+    margin: 0;
+}
+
+/* first div */
+
+.firstdiv{
+    position: relative;
+    top: 0;
+}
+
+img.topcircleimage{
+    position: relative;
+    right: 280px;
+    top: -400px;
+    margin: 0 auto;
+    min-width: 375px;
+    max-width: 1440px;
+}
+
+img.bottomcircleimage{
+    position: relative;
+    left: 800px;
+    top: -650px;
+    margin: 0 auto;
+    min-width: 375px;
+    max-width: 1440px;
+}
+
+/* second div  */
+
+.seconddiv{
+    background-color: white;
+    width: 350px;
+    display: inline-block;
+    position: absolute;
+    top: 230px;
+    left: 600px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.cardimage{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.victorimage{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    top: -50px;
+    margin-bottom: -50px;
+    
+}
+
+.strongparagraph{
+    font-family: 'Kumbh Sans', sans-serif;
+    color: hsl(229, 23%, 23%);
+    margin-right: 5px;
+    font-weight: 700px;
+    font-size: 18px;
+}
+
+.firstparagraph{
+    color: hsl(227, 10%, 46%);
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 400px;
+    font-size: 18px;
+}
+
+.secondparagraph{
+    font-family: 'Kumbh Sans', sans-serif;
+    color: hsl(227, 10%, 46%);
+    margin-top: -10px;
+    font-size: 14px;
+}
+
+.firstul li{
+    display: inline-block;
+    margin: 0 auto;
+    width: 50px;
+    padding-right: 20px;
+    font-family: 'Kumbh Sans', sans-serif;
+    color: hsl(229, 23%, 23%);
+    font-size: 18px;
+    font-weight: 700px;
+}
+
+.secondul li{
+    display: inline-block;
+    margin: 0 auto;
+    width: 50px;
+    padding-right: 20px;
+    color: hsl(227, 10%, 46%);
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 12px;
+    font-family: monospace;
+    position: relative;
+    top: -15px;
+}
+
+
+
+
