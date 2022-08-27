@@ -1,6 +1,11 @@
 body{
     background-color: hsl(185, 75%, 39%);
     margin: 0;
+    overflow: hidden;
+}
+
+main{
+    overflow: hidden;
 }
 
 /* first div */
