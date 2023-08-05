@@ -45,5 +45,5 @@ I want to focus on learning on how to make responsive websites
 - Frontend Mentor - (https://www.frontendmentor.io/profile/Error-at-night)
 - Twitter - (https://www.twitter.com/realogsucessful)
 - Linkedln - (https://www.linkedin.com/in/olayemi-success-554a86235/)
-- Instagram - (https://www.instagram.com/realogsuccessful/reels/)
+- Instagram - (https://www.instagram.com/realogsuccessful/)
 
