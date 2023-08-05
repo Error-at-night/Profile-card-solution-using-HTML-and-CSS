@@ -38,11 +38,12 @@ I have learn how to implement the basic things i have learnt about HTML and CSS 
 ### Continued development
 
 I want to focus on learning on how to make responsive websites
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ## Author
 
 - Website - (https://error-at-night.github.io/Profile-card-solution-using-HTML-and-CSS/)
 - Frontend Mentor - (https://www.frontendmentor.io/profile/Error-at-night)
 - Twitter - (https://www.twitter.com/realogsucessful)
+- Linkedln - (https://www.linkedin.com/in/olayemi-success-554a86235/)
+- Instagram - (https://www.instagram.com/realogsuccessful/reels/)
 
